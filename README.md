@@ -7,7 +7,7 @@
 4. Open link localhost/phpmyadmin.
 5. Click on new.
 6. Give a database name as (idiscuss) hit on create button.
-7. After creating database name click on import.
+7. After creating database click on import.
 8. Browse the file in directory [Online-Forum/database/idiscuss.sql].
 9. Open any browser and type http://localhost/Online-Forum.
 
