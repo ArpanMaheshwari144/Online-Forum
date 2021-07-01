@@ -2,7 +2,7 @@
 
 ## Installation
 1. Install XAMPP.
-2. Open XAMPP Control panal and start [apache] and [mysql].
+2. Open XAMPP Control Panel and start Apache and Mysql.
 3. Download the code.
 4. Open link localhost/phpmyadmin.
 5. Click on new.
