@@ -8,7 +8,7 @@
 5. Now go to localhost/phpmyadmin. 
 6. If you first time open phpmyadmin it will ask username and password. Username is root and Password is blank, then hit Go button.
 7. Click on new.
-8. Give a database name as (idiscuss) hit on create button.
+8. Give a database name as (idiscuss) and hit on create button.
 9. After creating database click on import.
 10. Browse the file in directory [C:\xampp\htdocs\Online-Forum\database\idiscuss.sql].
 11. Open any browser and type http://localhost/Online-Forum.
